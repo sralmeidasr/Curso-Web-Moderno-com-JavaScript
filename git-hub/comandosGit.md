@@ -18,4 +18,15 @@
 16. [git remote add 'nome do repositório' link] => para enviar o repositório local para o remoto.
 17. [git remote] => mostra o repositório adicionado ao remoto.
 18. [git remote -v] => mostra mais detalhes do repositório adicionado ao remoto.
-19. [git push -u origin master] => comando para enviar o repositório local para o remoto, 'origin' foi o nome que eu deu para o repositório local e o 'master' representa a branch que eu quero enviar para o repositório remoto. 
+19. [git push -u origin master] => comando para enviar o repositório local para o remoto, 'origin' foi o nome que eu deu para o repositório local e o 'master' representa a branch que eu quero enviar para o repositório remoto.
+20. [git revert --no-edit] => comando para reverter sem perder todo o código e mantem o commit.
+21. [git push origin :nomeBranche] => deletando branches remotos.
+22. [git push origin -D nomeBranche] => deletando branches locais.
+23. [git pull origin master] => puxando alterações do repositório remoto (pull).
+24. [git clone link] => clonando repositórios remotos.
+
+# Funcionalidades mais usadas no git
+1 - [.gitignore] => ignorando arquivos do repositório local e remoto(gitignore). Criar um arquivo com o nome '.gitignore' e salva o nome do arquivo que se deseja omitir dentro do arquivo '.gitignore', sendo possível omitir até mesmo pastas completas.
+2 - [*.js] => para omitir todos os arquivos, que por exemplo, tenham a extenção JS no final.
+3 - [nomepasta/*] => para omitir todos os arquivos da pasta, ou a própria pasta com 'nomepasta/'.
+4 - [fork/pull request] => contribuindo com outros repositórios, sendo 'fork' para copiar o repositório desejado para o seu repositório remoto, ao final  depois de realizadas todas as alterações, o 'pull request' enviar as alterações feitas para o dono do projeto original avaliar e aceitar.

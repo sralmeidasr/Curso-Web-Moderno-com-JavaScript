@@ -1,4 +1,4 @@
-function respirar() {
+/*function respirar() {
         
     console.log(`${this.nome} está respirando...`);
 }
@@ -15,4 +15,5 @@ const gato = {
 }
  
 cachorro.respirar()
-gato.respirar()
+gato.respirar()*/
+
