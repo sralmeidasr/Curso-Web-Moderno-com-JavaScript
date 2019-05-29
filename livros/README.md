@@ -4,7 +4,7 @@
 
 **Uma moderna introdução ao JavaScript, programação e maravilhas digitais.**
 
-![Cangaceiro JavaScript](img/Cangaceiro JavaScript.png)
+![Cangaceiro JavaScript](img/CangaceiroJavaScript.png)
 
 # Desenvolvimento Web com HTML, CSS e JavaScript
 
@@ -12,4 +12,4 @@
 
 **Um livro que ensina de uma maneira elegante, mostrando apenas o que é necessário, quando é necessário e o momento certo.**
 
-![Desenvolvimento Web com HTML, CSS e JavaScript](img/Desenvolvimento Web com HTML, CSS e JavaScript.png)
+![Desenvolvimento Web com HTML, CSS e JavaScript](img/Desenvolvimento_Web_HTML_CSSeJavaScript.png)
