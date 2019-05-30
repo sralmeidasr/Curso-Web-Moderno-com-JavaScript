@@ -1,4 +1,4 @@
-# Curso-Web-Moderno-com-JavaScript
+# Curso Web Moderno com JavaScript
 
 **Javascript, React, Vue, JS, Node, HTML, CSS, jQuery, Bootstrap 4, Webpack, Gulp, Banco de Dados e muito mais.**
 **Nível de experiência: Todos os níveis | Alunos: 235 | Lições: 499 | Carga horária: 75,5 horas**
@@ -10,6 +10,17 @@ Tudo que você precisa aprender para construir aplicações modernas para Web, v
 Desenvolvimento Web é hoje um dos assuntos mais relevantes do momento porque o mercado respira Web. E Se você deseja ser um profissional preparado para o mercado e não quer aprender apenas fórmulas, mas o porquês, esse curso é a escolha certa pra você.
 
 Neste curso iremos abordar o desenvolvimento Web de ponta a ponta, para que você seja capaz de construir uma aplicação com as principais tecnologias do mercado. São 13 cursos dentro de um só. Você irá aprender Javascript, que é hoje a linguagem da atualidade, várias empresas estão migrando suas bases de PHP, Python e outras para terem suas bases completamente feitas em javascript. Também irá aprender Node, os últimos recursos de HTML e  CSS, Gulp, Webpack, jQuery, Bootstrap, React ( Tecnologia usada por umas das maiores empresas do mundo, o Facebook), Vue JS, ExpressJS, MySQL e MongoDB.
+
+# ATENÇÃO: 
+**Ao aprender a codificar, a maioria das pessoas ficam presas na "ponte", entre memorizar a sintaxe e entender a lógica que a faz funcionar. Acreditamos que a maneira mais eficaz de aprender uma linguagem de programação é dividir o processo em três fases:**
+
+1. Memorize a sintaxe.
+2. Resolver problemas.
+3. Faça coisas.
+
+**A maioria dos iniciantes pula diretamente do aprendizado da sintaxe, para fazer coisas (ou tentar) sem entender completamente como a sintaxe é usada para resolver problemas. Em outras palavras, eles não aprenderam a pensar como um programador, mas espera-se que resolvam problemas como um programador.**
+
+## O Curso Web Moderno com JavaScript foi criado para acabar com esta lacuna, ao mesmo tempo que torna o processo divertido e viciante.
 
 O melhor de tudo é que durante a nossa jornada iremos agrupar essas tecnologias em desafios e projetos para consolidar o seu conhecimento. Você aprenderá a dominar tecnologias de frontend - que é a parte da aplicação executada no browser do usuário, e tecnologias de backend - que é o código executado no lado do servidor. O curso vai abranger essas duas partes, além de se preocupar muito com os fundamentos que são comuns à toda aplicação.
 
