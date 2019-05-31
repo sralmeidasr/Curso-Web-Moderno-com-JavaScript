@@ -28,7 +28,7 @@ Nesse curso você também irá aprender os paradigmas de programação usados na
 
 Um dos maiores diferenciais desse curso é que não ensinamos apenas fórmulas, você vai terminar esse curso entendendo os porquês, a lógica de como a coisa acontece, o que vai te tornar um profissional muito mais qualificado e competitivo no mercado. E no projeto final do curso iremos desenvolver uma aplicação exclusiva que surgiu de uma necessidade real.
 
-Por isso o que temos aqui não é apenas um curso, e sim um agrupamento de 13 cursos, não tenho dúvida que você estará fazendo uma excelente escolha se juntando à nossa comunidade de mais de 235 mil alunos.
+Por isso o que temos aqui não é apenas um curso, e sim um agrupamento de 13 cursos, que será transformado em Bootcamp no futuro chamado Full Stack Sênior Developer, não tenho dúvida que você estará fazendo uma excelente escolha se juntando à nossa comunidade de mais de 235 mil alunos.
 
 Grande abraço e bons estudos!
 
