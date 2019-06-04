@@ -26,7 +26,7 @@
 24. [git clone link] => clonando repositórios remotos.
 
 # Funcionalidades mais usadas no git
-1 - [.gitignore] => ignorando arquivos do repositório local e remoto(gitignore). Criar um arquivo com o nome '.gitignore' e salva o nome do arquivo que se deseja omitir dentro do arquivo '.gitignore', sendo possível omitir até mesmo pastas completas.
-2 - [*.js] => para omitir todos os arquivos, que por exemplo, tenham a extenção JS no final.
-3 - [nomepasta/*] => para omitir todos os arquivos da pasta, ou a própria pasta com 'nomepasta/'.
-4 - [fork/pull request] => contribuindo com outros repositórios, sendo 'fork' para copiar o repositório desejado para o seu repositório remoto, ao final  depois de realizadas todas as alterações, o 'pull request' enviar as alterações feitas para o dono do projeto original avaliar e aceitar.
+1. [.gitignore] => ignorando arquivos do repositório local e remoto(gitignore). Criar um arquivo com o nome '.gitignore' e salva o nome do arquivo que se deseja omitir dentro do arquivo '.gitignore', sendo possível omitir até mesmo pastas completas.
+2. [*.js] => para omitir todos os arquivos, que por exemplo, tenham a extenção JS no final.
+3. [nomepasta/*] => para omitir todos os arquivos da pasta, ou a própria pasta com 'nomepasta/'.
+4. [fork/pull request] => contribuindo com outros repositórios, sendo 'fork' para copiar o repositório desejado para o seu repositório remoto, ao final  depois de realizadas todas as alterações, o 'pull request' enviar as alterações feitas para o dono do projeto original avaliar e aceitar.
