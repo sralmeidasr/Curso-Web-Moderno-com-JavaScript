@@ -44,3 +44,14 @@ console.log(volvo.status())
 
 ferrari.acelerarMais(300)
 console.log(ferrari.status())
+
+
+
+/** Atenção: 
+ * Mudar o [[Prototype]] de um objeto é, pela natureza de como os modernos mecanismos JavaScript otimizam os acessos de propriedade, 
+ * uma operação muito lenta, em todos navegadores e mecanismos JavaScript. O efeito sobre o desempenho de alterar a herança são sutis 
+ * e vastas e não se limitam simplesmente ao tempo gasto em obj.__proto__ = ... statement, mas pode estender a qualquer código que 
+ * tem acesso a qualquer objeto cujo [[Prototype]] foi alterado. Se você se preocupa com desempenho, você deveria evitar configurar 
+ * o [[Prototype]] de um objeto. Em vez disso, crie um novo objeto com o [[Prototype]] desejado usando Object.create(). 
+ * Fonte: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf
+ */

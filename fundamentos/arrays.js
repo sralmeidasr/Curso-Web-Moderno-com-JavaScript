@@ -32,7 +32,7 @@ frutas.unshift('Morango') /* essa função serve para adicinar mais coisas dentr
 sempre ao início do array. */
 frutas.push({id: 3}, false, null, 'teste') /* essa função serve para adicinar mais coisas dentro do array, porém o 'push()' 
 adiciona sempre ao final do array, sendo que nesse caso foram adicionados tipos de dados diferentes, o que não é adequado mas 
-erve para mostrar a flexibilidade de JavaScript. */  
+serve para mostrar a flexibilidade de JavaScript. */  
  
 console.log(frutas)
 

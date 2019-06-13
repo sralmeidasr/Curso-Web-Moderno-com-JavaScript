@@ -11,10 +11,13 @@ const produto = {
     desc: 0.15,
     getPreco
 }
-
 console.log(produto.getPreco())
 
-const carro = { nome: 'BMW', preco: 49990, desc: 0.20 }
+const carro = { 
+    nome: 'BMW', 
+    preco: 49990, 
+    desc: 0.20 
+}
 console.log(getPreco.call(carro))
 console.log(getPreco.apply(carro))
 
