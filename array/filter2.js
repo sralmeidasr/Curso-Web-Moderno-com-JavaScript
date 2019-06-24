@@ -1,4 +1,14 @@
-/* O método filter() cria um novo array com todos os elementos que passaram no teste implementado pela função fornecida. */
+// Simulando o método filter()
+
+Array.prototype.filter2 = function(callback) {
+    const newArray = []
+    for (let i = 0; i < this.length; i++) {
+        if(callback(this[i], i, this)) {
+            newArray.push(this[i])
+        }
+    }
+    return newArray
+}
 
 const produtos = [
     { nome: 'Notebook', preco: 2499, fragil: true },
@@ -10,5 +20,5 @@ const produtos = [
 const apenasCaros = produtos => produtos.preco >= 500
 const apenasFragil = produtos => produtos.fragil
 
-const resultado = produtos.filter(apenasCaros).filter(apenasFragil)
+const resultado = produtos.filter2(apenasCaros).filter2(apenasFragil)
 console.log(resultado)
